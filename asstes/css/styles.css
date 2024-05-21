@@ -1,0 +1,56 @@
+:root {
+    --color1: #50078B;
+  }
+  
+a{
+    color: white;
+}
+.A1{
+    color: orange;
+}
+.A2{
+    color: black;
+}
+.col-md-12 img {
+    width: 40px; /* Ajusta el ancho de todos los iconos */
+    height: 40px; /* Ajusta la altura de todos los iconos */
+    color: white;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.logo-blanco {
+    width: 200px; 
+    height: auto; 
+    position: absolute;
+    top: 100px;
+    right: 80%;
+    z-index: 999; /* Asegura que el logotipo esté por encima de las imágenes del carrusel */
+}
+.logo{
+   
+    position: absolute;
+    top: 100px;
+    left: 70%;
+    z-index: 999; 
+}
+.columna-morada {
+    background-color: var(--color1);
+}
+.tcolumna1{
+    font-size: 20px;
+}
+.stitle{
+    font-size: 90px;
+    height: 300px;
+
+}
+.mascota {
+    width: 200px; 
+    height: auto;
+}
+
+
